@@ -15,7 +15,7 @@ input.onButtonPressed(Button.A, function () {
             . # # # .
             # . # . #
             `)
-        basic.pause(100)
+        basic.pause(500)
     }
 })
 basic.showLeds(`
