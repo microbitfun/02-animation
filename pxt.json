@@ -1,5 +1,5 @@
 {
-    "name": "0.2 animation",
+    "name": "animation",
     "description": "",
     "dependencies": {
         "core": "*",
