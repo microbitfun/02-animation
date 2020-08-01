@@ -1,5 +1,5 @@
 
-> Open this page at [https://microbitfun.github.io/02-animation/](https://microbitfun.github.io/02-animation/)
+> Open this page at [https://microbitfun.github.io/animation/](https://microbitfun.github.io/animation/)
 
 ## Use as Extension
 
