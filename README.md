@@ -5,10 +5,12 @@
 
 HINT: Alsways use https to embedd video's
 
-Embedded video in makecode
+Embedded video in makecode.
+
 https://youtu.be/lYB3F5tDnZ8
 
-Embedd video in github
+Embedd video in github.
+
 [![View animation video](https://img.youtube.com/vi/lYB3F5tDnZ8/0.jpg)](https://www.youtube.com/watch?v=lYB3F5tDnZ8 "Animation")
 
 ## Use as Extension
