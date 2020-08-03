@@ -1,34 +1,7 @@
-
-> Open this page at [https://microbitfun.github.io/animation/](https://microbitfun.github.io/animation/)
-
-## Awesome video
-
-HINT: Alsways use https to embedd video's
-
-Embedded video in makecode.
+# Animation
+Get the full project description from the book *Invent to Learn with the miro:bit*
 
 https://youtu.be/lYB3F5tDnZ8
-
-Embedd video in github.
-
-[![View animation video](https://img.youtube.com/vi/lYB3F5tDnZ8/0.jpg)](https://www.youtube.com/watch?v=lYB3F5tDnZ8 "Animation")
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/microbitfun/animation** and import
-
-## Edit this project ![Build status badge](https://github.com/microbitfun/02-animation/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/microbitfun/animation** and click import
 
 ## Blocks preview
 
