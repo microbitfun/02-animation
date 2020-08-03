@@ -2,6 +2,9 @@
 > Open this page at [https://microbitfun.github.io/animation/](https://microbitfun.github.io/animation/)
 
 ## Awesome video
+![View animation video](http://img.youtube.com/vi/lYB3F5tDnZ8/0.jpg)
+
+
 [![View animation video](http://img.youtube.com/vi/lYB3F5tDnZ8/0.jpg)](http://www.youtube.com/watch?v=lYB3F5tDnZ8 "Animation")
 
 ## Use as Extension
